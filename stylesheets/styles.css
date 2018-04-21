@@ -322,3 +322,14 @@ footer {
     color:#444;
   }
 }
+
+td.icon_link {
+    border: 0;
+    padding: 1px;
+}
+
+td.icon_text {
+    border: 0;
+    padding: 1px;
+    text-align:center;
+}
